@@ -20,9 +20,9 @@
 
 可以直接访问我写的一个笔记查看应用.
 
-### [GitNotes](https://notes.orangex4.cool/)
+### [GitNotes](https://notes.orangex4.workers.dev/)
 
-### [OrangeX4's Notes](https://notes.orangex4.cool/?git=gitlab)
+### [OrangeX4's Notes](https://notes.orangex4.workers.dev/?git=gitlab)
 
 ![](https://pic1.zhimg.com/v2-64a8fe27b9dc4a3e6c78ce51309a9c64_b.png)
 
@@ -55,7 +55,7 @@ Clone 完成之后用 VSCode 打开该文件夹.
 
 ## 其他
 
-欢迎访问 [我的博客](https://blog.orangex4.cool/), 里面有更多有趣的东西哦!
+欢迎访问 [我的博客](https://blog.orangex4.workers.dev/), 里面有更多有趣的东西哦!
 
 
 ## 版权声明
